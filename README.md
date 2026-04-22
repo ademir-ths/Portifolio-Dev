@@ -1,1 +1,2 @@
-# rocketseat-desafio-portfolio-dev
+Este repositório serve como portfólio pessoal para centralizar projetos e habilidades de desenvolvimento, utilizando tecnologias como HTML5, CSS3 e JavaScript. Estruturado com um design responsivo, ele inclui seções para projetos, "sobre mim" e instruções claras para execução local. O README profissional destaca o uso de tecnologias para atrair recrutadores e outros desenvolvedores.<img width="1345" height="592" alt="Captura de tela de 2026-04-22 20-19-11" src="https://github.com/user-attachments/assets/9c597fab-97b7-400b-b7eb-fda9761e906c" />
+
